@@ -29,4 +29,4 @@ The dataset contains information around 8000 customers of a telecom company. The
 
 ### Model Evaluation and Selection
 
-The dataset was split into 80/20 train vs. test, and all scores reported below were calculated with 10-fold cross validation:
+The dataset was split into 80/20 train vs. test, and all scores were calculated with 10-fold cross validation.
